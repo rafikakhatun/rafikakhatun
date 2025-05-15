@@ -13,14 +13,10 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" alt="MERN Stack Developer Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" width="400" alt="MERN Stack Developer Animation" />
 </div>
 
-###
 
-<div align="center">
-  <img height="150" src="https://drive.google.com/uc?export=view&id=1r5pA1p4zMqB7JP8_yVWh0ehK6uWoXX92" alt="MERN Stack Developer Animation" />
-</div>
 
 ###
 
