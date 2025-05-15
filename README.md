@@ -18,6 +18,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1r5pA1p4zMqB7JP8_yVWh0ehK6uWoXX92" alt="MERN Stack Developer Animation" />
+</div>
+
+###
+
 <h1 align="left"> 👋Hello, I'm Rafika Khatun</h1>
 
 
