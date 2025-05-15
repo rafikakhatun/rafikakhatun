@@ -31,7 +31,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I’m a passionate MERN Stack Developer with a strong focus on creating **user-friendly**, **mobile-responsive**, and **client-centric** web applications.
+
+🔹 I specialize in **React.js**, **Tailwind CSS**, **JavaScript**, and **responsive UI/UX**  
+🔹 I can build full-stack web apps using **MongoDB, Express.js, React.js, Node.js**  
+🔹 I ensure clean, maintainable code and meet deadlines with professionalism  
+🔹 I love working with clients to turn ideas into live digital solutions</p>
 
 ###
 
