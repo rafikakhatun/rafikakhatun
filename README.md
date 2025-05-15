@@ -25,7 +25,7 @@
 
 <h4 align="left">👩‍💻I'm a MERN Stack web developer from India.
  </h4>
- <hr>
+ ---
 
 ###
 
@@ -39,7 +39,7 @@
 🔹 I can build full-stack web apps using **MongoDB, Express.js, React.js, Node.js**  
 🔹 I ensure clean, maintainable code and meet deadlines with professionalism  
 🔹 I love working with clients to turn ideas into live digital solutions</p>
-<hr>
+---
 
 ###
 
