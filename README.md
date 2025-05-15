@@ -25,7 +25,7 @@
 
 <h4 align="left">👩‍💻I'm a MERN Stack web developer from India.
  </h4>
- <hr style="height:1px; border:none; background-color:#ccc;" />
+ <hr style="border: 0; height: 1px; background: #ccc; margin: 16px 0;" />
 
 
 
@@ -41,7 +41,7 @@
 🔹 I can build full-stack web apps using **MongoDB, Express.js, React.js, Node.js**  
 🔹 I ensure clean, maintainable code and meet deadlines with professionalism  
 🔹 I love working with clients to turn ideas into live digital solutions</p>
-<hr style="height:1px; border:none; background-color:#ccc;" />
+<hr style="border: 0; height: 1px; background: #ccc; margin: 16px 0;" />
 
 
 ###
