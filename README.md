@@ -22,12 +22,12 @@
 
 ###
 
-<h4 align="left" color="green">👩‍💻I'm a MERN Stack web developer from India.
+<h4 align="left">👩‍💻I'm a MERN Stack web developer from India.
  </h4>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
