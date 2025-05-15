@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" width="500" style="border-radius: 20px;"  alt="MERN Stack Developer Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" width="500"   alt="MERN Stack Developer Animation" />
 </div>
 
 
