@@ -1,6 +1,11 @@
+
+
+###
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" width="500"   alt="MERN Stack Developer Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWowdHd3am9wYnV5Zm95a2M4YnExYWd2MWsxMGF1dDh0d2JrMTVrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxKEjiUowUT7bEeVLb/giphy.gif" height="200" alt="MERN Stack Animation" />
 </div>
+
+
 
 
 ###
@@ -18,15 +23,16 @@
 
 ###
 
-<h1 align="left"> 👋Hello, I'm Rafika Khatun</h1>
+<h1 align="center"> 👋Hello, I'm Rafika Khatun</h1>
 
 
 ###
 
-<h4 align="left">👩‍💻I'm a MERN Stack web developer from India.
- </h4>
- ---
+<h4 align="left">👩‍💻 I'm a MERN Stack web developer from India.</h4>
 
+<p align="right">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="MERN Stack Developer Animation" />
+</p>
 
 
 ###
