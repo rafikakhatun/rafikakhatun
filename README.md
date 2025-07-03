@@ -30,7 +30,7 @@
 
 <h4 align="left">👩‍💻 I'm a MERN Stack web developer from India.</h4>
 
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="MERN Stack Developer Animation" />
 </p>
 
