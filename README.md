@@ -41,12 +41,21 @@
 
 ###
 
-<p align="left">I’m a passionate MERN Stack Developer with a strong focus on creating user-friendly, mobile-responsive, and client-centric web applications.</p>
+<p align="left">I’m a passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.
+</p>
   
-<p>🔹 I specialize in React.js, Tailwind CSS, JavaScript, and crafting responsive UI/UX. </p> 
-<p>🔹 I build full-stack web applications using MongoDB, Express.js, React.js, and Node.js.</p>  
-<p>🔹 I write clean, maintainable code and always meet deadlines with professionalism.</p>  
-<p>🔹 I enjoy collaborating with clients to bring their ideas to life through elegant web solutions.</p>
+<p> 🔹 Specialize in **React.js**, **Tailwind CSS**, **Bootstrap**, **HTML5**, **CSS3**, and **JavaScript (ES6+)**
+ </p> 
+<p>🔹 Love crafting pixel-perfect, mobile-friendly interfaces with intuitive UX
+</p>  
+<p> 🔹 Write clean, maintainable, and scalable frontend code
+</p>  
+<p>- 🔹 Enjoy solving real-world problems with modern UI solutions
+</p>
+<P> 🔹 Always eager to learn, improve, and collaborate on exciting project
+</P>
+<p>- 🔹 Currently learning backend to become a Full-Stack Developer (MERN)
+</p>
 ---
 
 
