@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="center">👩‍💻 I'm a Frontend Developer from India.</h4>
+<h4 align="center">👩‍💻 A passionate frontend developer from India</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="MERN Stack Developer Animation" />
