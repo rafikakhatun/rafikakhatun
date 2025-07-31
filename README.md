@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWowdHd3am9wYnV5Zm95a2M4YnExYWd2MWsxMGF1dDh0d2JrMTVrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxKEjiUowUT7bEeVLb/giphy.gif" height="200" alt="MERN Stack Animation" />
+<img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/5b65d3f6-b4fb-429b-b480-e21f2930244f" />
 </div>
 
 
